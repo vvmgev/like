@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/vvmgev/like-be#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.2.13"
   },
   "devDependencies": {
     "body-parser": "^1.18.3",
